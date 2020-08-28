@@ -1,5 +1,5 @@
 # NYR-2020-Presentation
 
-Slides for my 2020 R Conference NY talk: "All the World's a Stage: Elements for Visualization of Multivariate Spatiotemporal Data in R"
+Slides for my 2020 R Conference NY talk: "All the World's a Stage: Elements for Visualization of Multivariate Spatiotemporal Data in R" (August 15, 2020)
 
 Abstract: Visualization of multivariate spatiotemporal data has represented a nontrivial challenge. Displaying the data visually requires the capacity for the user to examine different perspectives and make comparisons among and between features, including use of multiple displays to re-focus attention on each component and linked brushing to connect the plots. In this talk, Emily will discuss considerations for slicing on space and time to reveal spatial and temporal dependencies at varying granularities, e.g. day of week vs. hour of day and urban v. rural. She will demonstrate a combination of graphical tools in R that support such an analysis, and their implementation to visualize the Australian bushfires that devastated parts of the country throughout the 2019-2020 season. Generous funding from ACEMS supported Emily’s visit to Melbourne this past spring for this collaboration with Professor Di Cook and Weihao Li of Monash University.
